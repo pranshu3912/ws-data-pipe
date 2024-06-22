@@ -21,3 +21,7 @@ Huge thanks to 0xrushi, without whose support this project would not have been p
   - Time series database for aggregation of data for future strategy testing
  
   The major sources for learning concepts required to build this came from Designing Data Intensive Applications, Confluent and MDN docs.
+
+
+P.S. - I have not provided the full code so it would not be executable, this is a further step to prevent blatant copying of code.
+Individual scripts are executable though, ingestion scripts work well, except on weekends because markets are closed then.
