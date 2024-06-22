@@ -2,7 +2,7 @@ This project intends to create a data pipeline to ingest, process and send strea
 
 This project arose out of the necessity to get low interval trading data especially on forex, which is not available unless you pay a lot of money to data providers.
 
-This is not the development repo, I had to use this alternate account to demonstrate my abilities as people were stealing code from my older projects, without giving credit.
+## This is not the development repo, I had to use this alternate account to demonstrate my abilities as people were stealing code from my older projects, without giving credit. For my official account on which my code is stored please see [this](https://github.com/pranshu-raj-211/).
 
 Huge thanks to 0xrushi, without whose support this project would not have been possible.
 
